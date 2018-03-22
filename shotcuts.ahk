@@ -1,0 +1,1 @@
+^<!t:: Run powershell.exe
