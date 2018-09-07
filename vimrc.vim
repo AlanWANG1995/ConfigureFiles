@@ -25,6 +25,7 @@ Plug 'vim-airline/vim-airline-themes'
 
 "highlight
 Plug 'udalov/kotlin-vim'
+Plug 'chr4/nginx.vim'
 
 "deoplete
 Plug 'zchee/deoplete-clang'
